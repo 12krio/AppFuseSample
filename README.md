@@ -6,7 +6,7 @@ AppFuseSample
 ・DB
 
 1. AppFuseにてmvnコマンド文字列を生成
- [Qiita](http://qiita.com "Qiita")
+ [AppFuse](http://appfuse.org/display/APF/AppFuse+QuickStart "AppFuse QuickStart")
 
 2. ローカルにてコマンド実行
 
@@ -14,25 +14,24 @@ AppFuseSample
 
 ![001](https://raw.githubusercontent.com/12krio/AppFuseSample/master/img/AppFuse001.jpg "001")
 
-
 3. アプリ実行
 
 
-![002](https://raw.githubusercontent.com/12krio/AppFuseSample/master/img/AppFuse001.jpg "002")
+![002](https://raw.githubusercontent.com/12krio/AppFuseSample/master/img/AppFuse002.jpg "002")
 
 4. アプリ実行完了
 
 
-![003](https://raw.githubusercontent.com/12krio/AppFuseSample/master/img/AppFuse001.jpg "003")
+![003](https://raw.githubusercontent.com/12krio/AppFuseSample/master/img/AppFuse003.jpg "003")
 
 5. ログイン画面
 
 
-![004](https://raw.githubusercontent.com/12krio/AppFuseSample/master/img/AppFuse001.jpg "004")
+![004](https://raw.githubusercontent.com/12krio/AppFuseSample/master/img/AppFuse004.jpg "004")
 
 6. 一通りの画面が機能が生成されている。
 
 
-![005](https://raw.githubusercontent.com/12krio/AppFuseSample/master/img/AppFuse001.jpg "005")
+![005](https://raw.githubusercontent.com/12krio/AppFuseSample/master/img/AppFuse005.jpg "005")
 
 
